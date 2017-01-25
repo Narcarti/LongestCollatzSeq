@@ -1,0 +1,6 @@
+c:\users\onshore\documents\visual studio 2015\Projects\LongestCollatzSeq\LongestCollatzSeq\bin\Debug\LongestCollatzSeq.exe.config
+c:\users\onshore\documents\visual studio 2015\Projects\LongestCollatzSeq\LongestCollatzSeq\bin\Debug\LongestCollatzSeq.exe
+c:\users\onshore\documents\visual studio 2015\Projects\LongestCollatzSeq\LongestCollatzSeq\bin\Debug\LongestCollatzSeq.pdb
+c:\users\onshore\documents\visual studio 2015\Projects\LongestCollatzSeq\LongestCollatzSeq\obj\Debug\LongestCollatzSeq.csprojResolveAssemblyReference.cache
+c:\users\onshore\documents\visual studio 2015\Projects\LongestCollatzSeq\LongestCollatzSeq\obj\Debug\LongestCollatzSeq.exe
+c:\users\onshore\documents\visual studio 2015\Projects\LongestCollatzSeq\LongestCollatzSeq\obj\Debug\LongestCollatzSeq.pdb
